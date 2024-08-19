@@ -1,2 +1,36 @@
 # CS360
-Mobile architecture and Programing
+Mobile Architecture and Programming
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
+
+
+<ins> question </ins> <br><br><be>
+
+answer 
